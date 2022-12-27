@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "week00-vigenerecipher-Jesus-sunuc/1.0.0": {
+        "runtime": {
+          "week00-vigenerecipher-Jesus-sunuc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "week00-vigenerecipher-Jesus-sunuc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

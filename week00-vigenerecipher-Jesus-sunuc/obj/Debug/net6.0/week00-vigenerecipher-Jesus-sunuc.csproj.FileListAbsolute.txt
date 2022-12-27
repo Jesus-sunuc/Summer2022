@@ -1,0 +1,15 @@
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\bin\Debug\net6.0\week00-vigenerecipher-Jesus-sunuc.exe
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\bin\Debug\net6.0\week00-vigenerecipher-Jesus-sunuc.deps.json
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\bin\Debug\net6.0\week00-vigenerecipher-Jesus-sunuc.runtimeconfig.json
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\bin\Debug\net6.0\week00-vigenerecipher-Jesus-sunuc.dll
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\bin\Debug\net6.0\week00-vigenerecipher-Jesus-sunuc.pdb
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\obj\Debug\net6.0\week00-vigenerecipher-Jesus-sunuc.csproj.AssemblyReference.cache
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\obj\Debug\net6.0\week00-vigenerecipher-Jesus-sunuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\obj\Debug\net6.0\week00-vigenerecipher-Jesus-sunuc.AssemblyInfoInputs.cache
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\obj\Debug\net6.0\week00-vigenerecipher-Jesus-sunuc.AssemblyInfo.cs
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\obj\Debug\net6.0\week00-vigenerecipher-Jesus-sunuc.csproj.CoreCompileInputs.cache
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\obj\Debug\net6.0\week00-vigenerecipher-Jesus-sunuc.dll
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\obj\Debug\net6.0\refint\week00-vigenerecipher-Jesus-sunuc.dll
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\obj\Debug\net6.0\week00-vigenerecipher-Jesus-sunuc.pdb
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\obj\Debug\net6.0\week00-vigenerecipher-Jesus-sunuc.genruntimeconfig.cache
+C:\Users\maria\desktop\summer2022\week00-vigenerecipher-Jesus-sunuc\obj\Debug\net6.0\ref\week00-vigenerecipher-Jesus-sunuc.dll
