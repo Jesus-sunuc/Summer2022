@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6CvyvHs9C4QqBCgeLz841HAZA4visDlUshW/zxe2BNiJL9qxv0b7D+sFvBBR+A9C6g7FdwpDthc79LpnHT0tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soc2\\desktop\\programming\\week09-pokemonparty-Jesus-sunuc\\pokemon\\pokemon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soc2\\.nuget\\packages\\csv\\2.0.84\\csv.2.0.84.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1J5tgZvTAZy53P5BSjSawUUsa+Gqaj/uNa+GFcxNGtMyH+SUNE9ZCjFepV31JbgyFFKad4/rkIoGaLBjNDYgMQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\soc2\\Desktop\\Pokemon\\pokemon.Main\\pokemon.Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soc2\\.nuget\\packages\\csv\\2.0.84\\csv.2.0.84.nupkg.sha512"
+  ],
+  "logs": []
+}

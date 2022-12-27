@@ -1,0 +1,98 @@
+﻿@page "/"
+
+<PageTitle>Pokemon</PageTitle>
+
+<h1>Pokemon</h1>
+<label for="">Search:</label>
+<input @bind="@searchTerm" @bind:event="oninput" />
+<button @onclick="orderByName">Order by Name</button>
+<button @onclick="filterByType">Type</button>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Type</th>
+            <th>HP</th>
+            <th>Attack</th>
+            <th>Defense</th>
+            <th>Sp. Attack</th>
+            <th>Sp. Defense</th>
+            <th>Speed</th>
+        </tr>
+    </thead>
+    <body>
+        @foreach (var pokemon in DisplayPokemon)
+        {
+            <tr>
+                <td>    
+                    @pokemon.Name
+                </td>
+                <td>
+                    @pokemon.Types
+                </td>
+                <td>
+                    @pokemon.HP
+                </td>
+                <td>
+                    @pokemon.Attack
+                </td>
+
+                <td>
+                    @pokemon.Defense
+                </td>
+                <td>
+                    @pokemon.SpAttack
+                </td>
+                <td>
+                    @pokemon.SpDefense
+                </td>
+                <td>
+                    @pokemon.Speed
+                </td>
+            </tr>
+        }
+    </body>
+</table>
+
+@code
+{
+    private IEnumerable<Pokemon> Pokemon { get; set; }
+    private IEnumerable<Pokemon> DisplayPokemon { get; set; }
+    private string _searchTerm { get; set; }
+    public string searchTerm
+    {
+        get => _searchTerm;
+        set
+        {
+            DisplayPokemon = Pokemon.Where(p => p.Name.ToLower().Contains(value.ToLower()))
+            .ToArray();
+            _searchTerm = value;
+        }
+    }
+    private PokemonFileService pokemonFileService { get; }
+    public Index()
+    {
+        pokemonFileService = new(Environment.CurrentDirectory + "/../");
+        Pokemon = pokemonFileService.ReadPokemonCSV();
+        DisplayPokemon = Pokemon;
+        searchTerm = "";
+    }
+
+    private void orderByName()
+    {
+        DisplayPokemon = Pokemon
+        .Where(p => p.Name.ToLower().Contains(_searchTerm.ToLower()))
+        .OrderByDescending(p => p.Name)
+        .Reverse()
+        .ToArray();
+    }
+
+    private void filterByType()
+    {
+        DisplayPokemon = Pokemon
+        .Where(p => p.Name.ToLower().Contains(_searchTerm.ToLower()))
+        .OrderByDescending(p => p.Types)
+        .Reverse()
+        .ToArray();
+    }
+}

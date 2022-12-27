@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Csv/2.0.84": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Csv.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Csv.dll": {}
+        }
+      },
+      "pokemon/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Csv": "2.0.84"
+        },
+        "compile": {
+          "bin/placeholder/pokemon.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/pokemon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csv/2.0.84": {
+      "sha512": "rGRhrWTMlykXWRf4DlaEYWDE00SyXvuKFZQ2+FVQecGMxI1Liz/kvALxNqOu5WislsiMRK5coF6gnWrR7l1Ckw==",
+      "type": "package",
+      "path": "csv/2.0.84",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "csv.2.0.84.nupkg.sha512",
+        "csv.nuspec",
+        "icon.png",
+        "lib/net40/Csv.dll",
+        "lib/net40/Csv.xml",
+        "lib/netcoreapp3.1/Csv.dll",
+        "lib/netcoreapp3.1/Csv.xml",
+        "lib/netstandard1.0/Csv.dll",
+        "lib/netstandard1.0/Csv.xml",
+        "lib/netstandard2.1/Csv.dll",
+        "lib/netstandard2.1/Csv.xml"
+      ]
+    },
+    "pokemon/1.0.0": {
+      "type": "project",
+      "path": "../pokemon/pokemon.csproj",
+      "msbuildProject": "../pokemon/pokemon.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "pokemon >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\soc2\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\soc2\\Desktop\\Pokemon\\pokemon.Main\\pokemon.Main.csproj",
+      "projectName": "pokemon.Main",
+      "projectPath": "c:\\Users\\soc2\\Desktop\\Pokemon\\pokemon.Main\\pokemon.Main.csproj",
+      "packagesPath": "C:\\Users\\soc2\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\soc2\\Desktop\\Pokemon\\pokemon.Main\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\soc2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "c:\\Users\\soc2\\Desktop\\Pokemon\\pokemon\\pokemon.csproj": {
+              "projectPath": "c:\\Users\\soc2\\Desktop\\Pokemon\\pokemon\\pokemon.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

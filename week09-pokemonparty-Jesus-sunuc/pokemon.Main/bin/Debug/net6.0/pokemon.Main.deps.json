@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pokemon.Main/1.0.0": {
+        "dependencies": {
+          "pokemon": "1.0.0"
+        },
+        "runtime": {
+          "pokemon.Main.dll": {}
+        }
+      },
+      "Csv/2.0.84": {
+        "runtime": {
+          "lib/netcoreapp3.1/Csv.dll": {
+            "assemblyVersion": "2.0.84.0",
+            "fileVersion": "2.0.84.0"
+          }
+        }
+      },
+      "pokemon/1.0.0": {
+        "dependencies": {
+          "Csv": "2.0.84"
+        },
+        "runtime": {
+          "pokemon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pokemon.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Csv/2.0.84": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rGRhrWTMlykXWRf4DlaEYWDE00SyXvuKFZQ2+FVQecGMxI1Liz/kvALxNqOu5WislsiMRK5coF6gnWrR7l1Ckw==",
+      "path": "csv/2.0.84",
+      "hashPath": "csv.2.0.84.nupkg.sha512"
+    },
+    "pokemon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
