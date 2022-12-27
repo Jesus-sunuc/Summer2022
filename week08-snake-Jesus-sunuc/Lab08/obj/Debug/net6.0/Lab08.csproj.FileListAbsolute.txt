@@ -1,0 +1,12 @@
+C:\Users\soc2\Desktop\programming\week08-snake-Jesus-sunuc\Lab08\bin\Debug\net6.0\Lab08.deps.json
+C:\Users\soc2\Desktop\programming\week08-snake-Jesus-sunuc\Lab08\bin\Debug\net6.0\Lab08.dll
+C:\Users\soc2\Desktop\programming\week08-snake-Jesus-sunuc\Lab08\bin\Debug\net6.0\Lab08.pdb
+C:\Users\soc2\Desktop\programming\week08-snake-Jesus-sunuc\Lab08\obj\Debug\net6.0\Lab08.csproj.AssemblyReference.cache
+C:\Users\soc2\Desktop\programming\week08-snake-Jesus-sunuc\Lab08\obj\Debug\net6.0\Lab08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soc2\Desktop\programming\week08-snake-Jesus-sunuc\Lab08\obj\Debug\net6.0\Lab08.AssemblyInfoInputs.cache
+C:\Users\soc2\Desktop\programming\week08-snake-Jesus-sunuc\Lab08\obj\Debug\net6.0\Lab08.AssemblyInfo.cs
+C:\Users\soc2\Desktop\programming\week08-snake-Jesus-sunuc\Lab08\obj\Debug\net6.0\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\soc2\Desktop\programming\week08-snake-Jesus-sunuc\Lab08\obj\Debug\net6.0\Lab08.dll
+C:\Users\soc2\Desktop\programming\week08-snake-Jesus-sunuc\Lab08\obj\Debug\net6.0\refint\Lab08.dll
+C:\Users\soc2\Desktop\programming\week08-snake-Jesus-sunuc\Lab08\obj\Debug\net6.0\Lab08.pdb
+C:\Users\soc2\Desktop\programming\week08-snake-Jesus-sunuc\Lab08\obj\Debug\net6.0\ref\Lab08.dll
