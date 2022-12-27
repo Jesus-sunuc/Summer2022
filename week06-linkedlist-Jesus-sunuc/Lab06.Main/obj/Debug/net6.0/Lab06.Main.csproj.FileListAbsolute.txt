@@ -1,0 +1,5 @@
+c:\Users\soc2\desktop\programming\week06-linkedlist-Jesus-sunuc\Lab06.Main\obj\Debug\net6.0\Lab06.Main.csproj.AssemblyReference.cache
+c:\Users\soc2\desktop\programming\week06-linkedlist-Jesus-sunuc\Lab06.Main\obj\Debug\net6.0\Lab06.Main.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\soc2\desktop\programming\week06-linkedlist-Jesus-sunuc\Lab06.Main\obj\Debug\net6.0\Lab06.Main.AssemblyInfoInputs.cache
+c:\Users\soc2\desktop\programming\week06-linkedlist-Jesus-sunuc\Lab06.Main\obj\Debug\net6.0\Lab06.Main.AssemblyInfo.cs
+c:\Users\soc2\desktop\programming\week06-linkedlist-Jesus-sunuc\Lab06.Main\obj\Debug\net6.0\Lab06.Main.csproj.CoreCompileInputs.cache
