@@ -1,0 +1,12 @@
+c:\Users\soc2\Desktop\programming\week07doublylinkedlist-Jesus-sunuc\Lab07\bin\Debug\net6.0\Lab07.deps.json
+c:\Users\soc2\Desktop\programming\week07doublylinkedlist-Jesus-sunuc\Lab07\bin\Debug\net6.0\Lab07.dll
+c:\Users\soc2\Desktop\programming\week07doublylinkedlist-Jesus-sunuc\Lab07\bin\Debug\net6.0\Lab07.pdb
+c:\Users\soc2\Desktop\programming\week07doublylinkedlist-Jesus-sunuc\Lab07\obj\Debug\net6.0\Lab07.csproj.AssemblyReference.cache
+c:\Users\soc2\Desktop\programming\week07doublylinkedlist-Jesus-sunuc\Lab07\obj\Debug\net6.0\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\soc2\Desktop\programming\week07doublylinkedlist-Jesus-sunuc\Lab07\obj\Debug\net6.0\Lab07.AssemblyInfoInputs.cache
+c:\Users\soc2\Desktop\programming\week07doublylinkedlist-Jesus-sunuc\Lab07\obj\Debug\net6.0\Lab07.AssemblyInfo.cs
+c:\Users\soc2\Desktop\programming\week07doublylinkedlist-Jesus-sunuc\Lab07\obj\Debug\net6.0\Lab07.csproj.CoreCompileInputs.cache
+c:\Users\soc2\Desktop\programming\week07doublylinkedlist-Jesus-sunuc\Lab07\obj\Debug\net6.0\Lab07.dll
+c:\Users\soc2\Desktop\programming\week07doublylinkedlist-Jesus-sunuc\Lab07\obj\Debug\net6.0\refint\Lab07.dll
+c:\Users\soc2\Desktop\programming\week07doublylinkedlist-Jesus-sunuc\Lab07\obj\Debug\net6.0\Lab07.pdb
+c:\Users\soc2\Desktop\programming\week07doublylinkedlist-Jesus-sunuc\Lab07\obj\Debug\net6.0\ref\Lab07.dll
