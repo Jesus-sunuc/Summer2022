@@ -1,0 +1,26 @@
+User Class:
+   - Has a Name
+   - Has a Credit Card
+
+User Name Class:
+   - First name, only alphabetic characters
+   - Last name, only alphabetic characters
+   - Middle name?, only alphabetic characters
+    
+Credit Card Class:
+   - Credit Card Number
+   - Expiration Date
+   - CVV code
+
+Credit Card Number Class:
+    - Number (numbers and spaces)
+        - 4 numbers, a space, 4 numbers, a space, 4 numbers, a space, 4 numbers
+        - Example: '4444 4444 4444 4444'
+
+Credit Card Expiration Date Class:
+    Month (1 - 12)
+    Day (1 - 31) (we will not try and run date by date validation by month)
+
+Credit Card CVV Class:
+    - Number (only 3 numbers, no more, no less)
+        - represent as a string (we want '001' to not be transformed into '1')
