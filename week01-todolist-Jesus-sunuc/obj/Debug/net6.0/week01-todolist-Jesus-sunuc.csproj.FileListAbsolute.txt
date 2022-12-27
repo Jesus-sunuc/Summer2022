@@ -1,0 +1,15 @@
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\bin\Debug\net6.0\week01-todolist-Jesus-sunuc.exe
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\bin\Debug\net6.0\week01-todolist-Jesus-sunuc.deps.json
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\bin\Debug\net6.0\week01-todolist-Jesus-sunuc.runtimeconfig.json
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\bin\Debug\net6.0\week01-todolist-Jesus-sunuc.dll
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\bin\Debug\net6.0\week01-todolist-Jesus-sunuc.pdb
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\obj\Debug\net6.0\week01-todolist-Jesus-sunuc.csproj.AssemblyReference.cache
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\obj\Debug\net6.0\week01-todolist-Jesus-sunuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\obj\Debug\net6.0\week01-todolist-Jesus-sunuc.AssemblyInfoInputs.cache
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\obj\Debug\net6.0\week01-todolist-Jesus-sunuc.AssemblyInfo.cs
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\obj\Debug\net6.0\week01-todolist-Jesus-sunuc.csproj.CoreCompileInputs.cache
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\obj\Debug\net6.0\week01-todolist-Jesus-sunuc.dll
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\obj\Debug\net6.0\refint\week01-todolist-Jesus-sunuc.dll
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\obj\Debug\net6.0\week01-todolist-Jesus-sunuc.pdb
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\obj\Debug\net6.0\week01-todolist-Jesus-sunuc.genruntimeconfig.cache
+C:\Users\maria\desktop\summer2022\week01-todolist-Jesus-sunuc\obj\Debug\net6.0\ref\week01-todolist-Jesus-sunuc.dll
