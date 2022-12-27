@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\soc2\\Desktop\\programming\\week10-sortingalgorithmbenchmark-Jesus-sunuc\\Lab10.Main\\Lab10.Main.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\soc2\\Desktop\\programming\\week10-sortingalgorithmbenchmark-Jesus-sunuc\\Lab10.Main\\Lab10.Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\soc2\\Desktop\\programming\\week10-sortingalgorithmbenchmark-Jesus-sunuc\\Lab10.Main\\Lab10.Main.csproj",
+        "projectName": "Lab10.Main",
+        "projectPath": "c:\\Users\\soc2\\Desktop\\programming\\week10-sortingalgorithmbenchmark-Jesus-sunuc\\Lab10.Main\\Lab10.Main.csproj",
+        "packagesPath": "C:\\Users\\soc2\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\soc2\\Desktop\\programming\\week10-sortingalgorithmbenchmark-Jesus-sunuc\\Lab10.Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\soc2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\soc2\\Desktop\\programming\\week10-sortingalgorithmbenchmark-Jesus-sunuc\\Lab10\\Lab10.csproj": {
+                "projectPath": "c:\\Users\\soc2\\Desktop\\programming\\week10-sortingalgorithmbenchmark-Jesus-sunuc\\Lab10\\Lab10.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\soc2\\Desktop\\programming\\week10-sortingalgorithmbenchmark-Jesus-sunuc\\Lab10\\Lab10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\soc2\\Desktop\\programming\\week10-sortingalgorithmbenchmark-Jesus-sunuc\\Lab10\\Lab10.csproj",
+        "projectName": "Lab10",
+        "projectPath": "c:\\Users\\soc2\\Desktop\\programming\\week10-sortingalgorithmbenchmark-Jesus-sunuc\\Lab10\\Lab10.csproj",
+        "packagesPath": "C:\\Users\\soc2\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\soc2\\Desktop\\programming\\week10-sortingalgorithmbenchmark-Jesus-sunuc\\Lab10\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\soc2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
